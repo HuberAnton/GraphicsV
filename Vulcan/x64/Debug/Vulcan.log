@@ -1,3 +1,3 @@
 ﻿  Entry.cpp
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  Vulcan.vcxproj -> C:\Users\User\Desktop\Repos\GraphicsV\GraphicsV\x64\Debug\Vulcan.exe
+  Vulcan.vcxproj -> C:\Users\User\Desktop\Repos\GraphicsV\x64\Debug\Vulcan.exe
